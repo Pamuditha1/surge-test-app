@@ -25,6 +25,8 @@ Start the docker container using docker-compose.yaml file
 
 (command -> docker-compose up)
 
+Then reach the address -> http://localhost:3000
+
 
 
 -- Test Credentials --
