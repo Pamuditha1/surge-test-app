@@ -14,7 +14,7 @@ Add .env file to the server folder with following keys
         
         MONGODB_URI=<database uri>
         
-        TEST_DB=<test database uri>
+        TEST_DB=<testing database uri>
         
 
 Build the docker images from the docker-compose.yaml file
