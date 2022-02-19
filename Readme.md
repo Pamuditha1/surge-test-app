@@ -2,7 +2,7 @@
 
 Application Architecture - MVC Architecture
 
-Languages and Frameworks/Libraries - JavaScript, React, Node, Express, MongoDB
+Languages and Frameworks/Libraries - JavaScript, React, Node, Express, Mongoose
 
 
 
