@@ -8,7 +8,7 @@ Languages and Frameworks/Libraries - JavaScript, React, Node, Express, Mongoose
 
 -- Configuration --
 
-Add .env file to the server folder with following keys
+1.      Add .env file to the server folder with following keys
 
         JWT=<jwt key>
         
@@ -17,15 +17,15 @@ Add .env file to the server folder with following keys
         TEST_DB=<testing database uri>
         
 
-Build the docker images from the docker-compose.yaml file
+2.      Build the docker images from the docker-compose.yaml file
 
 (command -> docker-compose build)
 
-Start the docker container using docker-compose.yaml file
+3.      Start the docker container using docker-compose.yaml file
 
 (command -> docker-compose up)
 
-Then reach the address -> http://localhost:3000
+4.      Then reach the address -> http://localhost:3000
 
 
 
