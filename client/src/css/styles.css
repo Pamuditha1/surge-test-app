@@ -1,0 +1,14 @@
+.form {
+  background-color: #0077b6;
+  padding: 50px 60px;
+  border-radius: 30px;
+}
+
+.user {
+  margin: auto;
+}
+
+.update_btn {
+  width: "100px";
+  margin: "auto";
+}

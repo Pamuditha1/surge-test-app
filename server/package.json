@@ -1,0 +1,28 @@
+{
+  "name": "test-app-api",
+  "version": "1.0.0",
+  "description": "Test API for the Surge Global Software Engineering Internship Program",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "jest --watchAll --verbose --detectOpenHandles --coverage",
+    "dev-test": "jest --watchAll --verbose --detectOpenHandles"
+  },
+  "author": "Pamuditha Rajapaksha",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "helmet": "^5.0.2",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  }
+}
